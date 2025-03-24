@@ -4,4 +4,4 @@ Featuring some built in function and primitive operation (condition, inequality,
 To run this lanague:
 - copy the program into Dr.Racket
 - have QWJZ program written
-- call top-interp ('<QWJZ program>)
+- call top-interp ('your-program-her)
